@@ -1,0 +1,12 @@
+C:\Users\thompsonc\source\repos\PhoneBook\bin\Debug\Phonelist.mdf
+C:\Users\thompsonc\source\repos\PhoneBook\bin\Debug\Phonelist_log.ldf
+C:\Users\thompsonc\source\repos\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\thompsonc\source\repos\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\thompsonc\source\repos\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\thompsonc\source\repos\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\thompsonc\source\repos\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\thompsonc\source\repos\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\thompsonc\source\repos\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\thompsonc\source\repos\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\thompsonc\source\repos\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\thompsonc\source\repos\PhoneBook\obj\Debug\PhoneBook.pdb
