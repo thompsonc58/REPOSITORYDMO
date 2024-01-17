@@ -1,0 +1,9 @@
+Create a program that will ask for a students first name, last name, gradution year, phone number, and current major.  The program should allow the user to keep inputing different students until they answer N to "do you have another student to enter?".  The program should write the data entered for each student to an output file.
+
+
+
+After the first program is written, create a second program that will take the output file created in program 1 and read the data into the program to produce a report that will show the following information. Student Name(FirstInitial.LastName),Major. The program should determine what decade the student graduated in.(80s, 90s, 00's or 2010's, or 2020's). The students general area code, (864 for upstate, 803-midlands, 843-lowcountry or other for any other area codes) 
+
+Print out should be in this order.
+
+First Initial, Last Name, Major, Graduation Decade, Area, 
